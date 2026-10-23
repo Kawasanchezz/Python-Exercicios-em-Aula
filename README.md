@@ -14,16 +14,21 @@
 
 ## 📚 Exercícios
 
-| # | Arquivo | O que faz |
-|---|---------|-----------|
-| 1 | [Exercicio 01.py](Exercicio%2001.py) | Recebe profissão, idade, sobrenome e esporte favorito e exibe cada um |
-| 2 | [Calcularmedia.py](Calcularmedia.py) | Calcula a média de 4 notas |
-| 3 | [CalculoRaizes.py](CalculoRaizes.py) | Calcula as raízes de uma equação do 2º grau (Bhaskara) |
-| 4 | [CalculoVelocidade.py](CalculoVelocidade.py) | Calcula a velocidade média (km/h) a partir da distância e do tempo |
-| 5 | [ConversaoTemperatura.py](ConversaoTemperatura.py) | Converte Celsius para Fahrenheit e Kelvin |
-| 6 | [CotacaoDolar.py](CotacaoDolar.py) | Converte dólares em reais pela cotação informada |
-| 7 | [Salário acrescido de comissão..py](Sal%C3%A1rio%20acrescido%20de%20comiss%C3%A3o..py) | Calcula o salário com 5% de comissão |
-| 8 | [Valores dos lados de um retângulo.py](Valores%20dos%20lados%20de%20um%20ret%C3%A2ngulo.py) | Calcula perímetro e área de um retângulo |
+### 🔤 Entrada e saída de dados
+- **[Exercicio 01](Exercicio%2001.py)**: pergunta profissão, idade, sobrenome e esporte favorito e mostra cada resposta.
+
+### ➕ Cálculos básicos
+- **[Média de notas](Calcularmedia.py)**: lê 4 notas e calcula a média.
+- **[Retângulo](Valores%20dos%20lados%20de%20um%20ret%C3%A2ngulo.py)**: calcula o perímetro e a área a partir do comprimento e da largura.
+- **[Velocidade média](CalculoVelocidade.py)**: calcula a velocidade (km/h) a partir da distância e do tempo de viagem.
+- **[Salário com comissão](Sal%C3%A1rio%20acrescido%20de%20comiss%C3%A3o..py)**: soma 5% de comissão ao salário informado.
+
+### 🔁 Conversões
+- **[Temperatura](ConversaoTemperatura.py)**: converte Celsius para Fahrenheit e Kelvin (usa função).
+- **[Cotação do dólar](CotacaoDolar.py)**: converte um valor em dólares para reais pela cotação informada.
+
+### 📐 Matemática
+- **[Raízes de equação do 2º grau](CalculoRaizes.py)**: encontra x1 e x2 pela fórmula de Bhaskara.
 
 ## ▶️ Como executar
 
@@ -40,3 +45,4 @@ Troque `CotacaoDolar.py` pelo exercício desejado. Os programas pedem os valores
 ## 👤 Autor
 
 Feito por [Kawasanchezz](https://github.com/Kawasanchezz).
+# Python-Exercicios-em-Aula
