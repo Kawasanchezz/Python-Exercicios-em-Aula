@@ -45,4 +45,3 @@ Troque `CotacaoDolar.py` pelo exercício desejado. Os programas pedem os valores
 ## 👤 Autor
 
 Feito por [Kawasanchezz](https://github.com/Kawasanchezz).
-# Python-Exercicios-em-Aula
