@@ -30,8 +30,8 @@
 Requer [Python 3](https://www.python.org/downloads/) instalado.
 
 ```bash
-git clone https://github.com/Kawasanchezz/Python---Exercicios-em-Aula.git
-cd Python---Exercicios-em-Aula
+git clone https://github.com/Kawasanchezz/Python-Exercicios-em-Aula.git
+cd Python-Exercicios-em-Aula
 python CotacaoDolar.py
 ```
 
